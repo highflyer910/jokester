@@ -1,15 +1,24 @@
+body{
+	background-color: #286090;
+}
+
 #app {
+	background-color: #A0C55F;
 	font-family: 'Avenir', Helvetica, Arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-align: center;
-	color: #2C3350;
+	font-weight: bold;
+	color: #286090;
 	margin-top: 60px;
 }
 
 .joke-card{
-   border: 2px solid #2C3350;
-   border-radius: 2px;
+	background-color: #A0C55F;
+   border: 2px solid #286090;
+   border-radius: 10px;
    padding: 5px;
    margin: 5px;
+   color: #286090;
+   font-weight: bold;
 }
