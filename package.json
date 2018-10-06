@@ -1,7 +1,7 @@
 {
   "name": "jokester",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "highflyer910 <tmush2014@agruni.edu.ge>",
   "private": true,
   "scripts": {
